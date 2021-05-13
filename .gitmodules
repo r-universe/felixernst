@@ -8,48 +8,58 @@
 	url = https://github.com/felixernst/epitxdb
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "Modstrings"]
 	path = Modstrings
 	url = https://github.com/felixernst/modstrings
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "RNAmodR"]
 	path = RNAmodR
 	url = https://github.com/felixernst/rnamodr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "RNAmodR.AlkAnilineSeq"]
 	path = RNAmodR.AlkAnilineSeq
 	url = https://github.com/felixernst/rnamodr.alkanilineseq
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "RNAmodR.ML"]
 	path = RNAmodR.ML
 	url = https://github.com/felixernst/rnamodr.ml
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "RNAmodR.RiboMethSeq"]
 	path = RNAmodR.RiboMethSeq
 	url = https://github.com/felixernst/rnamodr.ribomethseq
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "Structstrings"]
 	path = Structstrings
 	url = https://github.com/felixernst/structstrings
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tRNA"]
 	path = tRNA
 	url = https://github.com/felixernst/trna
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tRNAdbImport"]
 	path = tRNAdbImport
 	url = https://github.com/felixernst/trnadbimport
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tRNAscanImport"]
 	path = tRNAscanImport
 	url = https://github.com/felixernst/trnascanimport
 	shallow = true
 	registered = true
+	oncran = true
