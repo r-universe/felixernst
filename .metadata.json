@@ -1,0 +1,42 @@
+[
+  {
+    "package": "EpiTxDb",
+    "oncran": true
+  },
+  {
+    "package": "Modstrings",
+    "oncran": true
+  },
+  {
+    "package": "RNAmodR",
+    "oncran": true
+  },
+  {
+    "package": "RNAmodR.AlkAnilineSeq",
+    "oncran": true
+  },
+  {
+    "package": "RNAmodR.ML",
+    "oncran": true
+  },
+  {
+    "package": "RNAmodR.RiboMethSeq",
+    "oncran": true
+  },
+  {
+    "package": "Structstrings",
+    "oncran": true
+  },
+  {
+    "package": "tRNA",
+    "oncran": true
+  },
+  {
+    "package": "tRNAdbImport",
+    "oncran": true
+  },
+  {
+    "package": "tRNAscanImport",
+    "oncran": true
+  }
+]
