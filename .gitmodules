@@ -8,31 +8,6 @@
 	url = https://github.com/felixernst/epitxdb
 	shallow = true
 	registered = true
-[submodule "Modstrings"]
-	path = Modstrings
-	url = https://github.com/felixernst/modstrings
-	shallow = true
-	registered = true
-[submodule "RNAmodR"]
-	path = RNAmodR
-	url = https://github.com/felixernst/rnamodr
-	shallow = true
-	registered = true
-[submodule "RNAmodR.AlkAnilineSeq"]
-	path = RNAmodR.AlkAnilineSeq
-	url = https://github.com/felixernst/rnamodr.alkanilineseq
-	shallow = true
-	registered = true
-[submodule "RNAmodR.ML"]
-	path = RNAmodR.ML
-	url = https://github.com/felixernst/rnamodr.ml
-	shallow = true
-	registered = true
-[submodule "RNAmodR.RiboMethSeq"]
-	path = RNAmodR.RiboMethSeq
-	url = https://github.com/felixernst/rnamodr.ribomethseq
-	shallow = true
-	registered = true
 [submodule "Structstrings"]
 	path = Structstrings
 	url = https://github.com/felixernst/structstrings
