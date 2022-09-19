@@ -3,6 +3,24 @@
     "package": "EpiTxDb"
   },
   {
+    "package": "Modstrings"
+  },
+  {
+    "package": "RNAmodR"
+  },
+  {
+    "package": "RNAmodR.AlkAnilineSeq"
+  },
+  {
+    "package": "RNAmodR.ML"
+  },
+  {
+    "package": "RNAmodR.RiboMethSeq"
+  },
+  {
+    "package": "Structstrings"
+  },
+  {
     "package": "tRNA"
   },
   {
