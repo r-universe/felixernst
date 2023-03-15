@@ -1,9 +1,6 @@
 [
   {
-    "package": "Structstrings"
-  },
-  {
-    "package": "RNAmodR.AlkAnilineSeq"
+    "package": "EpiTxDb"
   },
   {
     "package": "Modstrings"
@@ -12,21 +9,24 @@
     "package": "RNAmodR"
   },
   {
-    "package": "tRNAscanImport"
+    "package": "RNAmodR.AlkAnilineSeq"
   },
   {
-    "package": "tRNA"
-  },
-  {
-    "package": "EpiTxDb"
+    "package": "RNAmodR.ML"
   },
   {
     "package": "RNAmodR.RiboMethSeq"
   },
   {
+    "package": "Structstrings"
+  },
+  {
+    "package": "tRNA"
+  },
+  {
     "package": "tRNAdbImport"
   },
   {
-    "package": "RNAmodR.ML"
+    "package": "tRNAscanImport"
   }
 ]
